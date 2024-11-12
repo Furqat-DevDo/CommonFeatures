@@ -1,4 +1,4 @@
-Common Used Features
+Common Features
 ===========================
 
 This project is designed to provide a robust starting point with commonly used features for any modern web application. It includes backend and frontend implementations for features like user authentication, account confirmation, translation, and more.
