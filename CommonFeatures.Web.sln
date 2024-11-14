@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "CommonFeatures.Admin.Web", "src\frontend\Common-Features.Admin.Web\CommonFeatures.Admin.Web.esproj", "{9F70B276-8D50-4A8C-8F36-7D50E506576B}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "CommonFeatures.Web", "src\frontend\CommonFeatures.Web\CommonFeatures.Web.esproj", "{5F6DC829-23FB-45CE-BD1E-9921D053C0C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F70B276-8D50-4A8C-8F36-7D50E506576B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F70B276-8D50-4A8C-8F36-7D50E506576B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F70B276-8D50-4A8C-8F36-7D50E506576B}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F70B276-8D50-4A8C-8F36-7D50E506576B}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{5F6DC829-23FB-45CE-BD1E-9921D053C0C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F6DC829-23FB-45CE-BD1E-9921D053C0C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F6DC829-23FB-45CE-BD1E-9921D053C0C0}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F6DC829-23FB-45CE-BD1E-9921D053C0C0}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+EndGlobal
