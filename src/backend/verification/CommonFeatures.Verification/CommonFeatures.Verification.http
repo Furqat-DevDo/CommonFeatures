@@ -1,0 +1,6 @@
+@CommonFeatures.Verification_HostAddress = http://localhost:5241
+
+GET {{CommonFeatures.Verification_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
