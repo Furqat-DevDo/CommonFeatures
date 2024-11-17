@@ -1,0 +1,6 @@
+@EasyStart.Auth_HostAddress = http://localhost:5104
+
+GET {{EasyStart.Auth_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
