@@ -39,7 +39,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonFeatures.Verification
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CommonFeatures.API.Gateway", "CommonFeatures.API.Gateway", "{E6ADCF6B-7E63-4BE3-B2FC-5D5BB98ED8CB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonFeatures.API.Gateway", "tests\gateway\CommonFeatures.API.Gateway\CommonFeatures.API.Gateway.csproj", "{79CED54E-B27B-4D83-9F45-DFAD4321B5DC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonFeatures.API.Gateway.Tests", "tests\gateway\CommonFeatures.API.Gateway.Tests\CommonFeatures.API.Gateway.Tests.csproj", "{79CED54E-B27B-4D83-9F45-DFAD4321B5DC}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CommonFeatures.Auth", "CommonFeatures.Auth", "{E5833641-347B-4460-9C01-AAFE6B59D60B}"
 EndProject

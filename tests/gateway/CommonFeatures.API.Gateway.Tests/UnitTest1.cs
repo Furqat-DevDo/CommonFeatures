@@ -1,4 +1,4 @@
-namespace CommonFeatures.API.Gateway;
+namespace CommonFeatures.API.Gateway.Tests;
 
 public class UnitTest1
 {
