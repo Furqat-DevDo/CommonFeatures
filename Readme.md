@@ -1,4 +1,4 @@
-Common Features
+Easy Start
 ===========================
 
 This project is designed to provide a robust starting point with commonly used features for any modern web application. It includes backend and frontend implementations for features like user authentication, account confirmation, translation, and more.
@@ -98,7 +98,8 @@ Setup
 ### Installation
 
 1.  ```bash 
-    git clone https://github.com/yourusername/common-features-starter-kit.gitcd common-features-starter-kit
+    git clone https://github.com/Furqat-DevDo/easy-start.git
+    cd easy-start-kit
 
 2.  **Backend Setup**:
 
@@ -106,7 +107,8 @@ Setup
        cd backend
 
     *   ```bash
-        dotnet restoredotnet build
+        dotnet restore
+        dotnet build
 
     *   ```bash
         dotnet ef database update
@@ -134,7 +136,7 @@ Access the app at http://localhost:4200.
 
 Folder Structure
 ----------------
-    common-features/
+    easy-start/
     ├── backend/                 # .NET Core API
     │   ├── Controllers/         # API Controllers
     │   ├── Models/              # Database models
