@@ -1,0 +1,2 @@
+[*.{cs,java}]
+file_header_template =EasyStart - Copyright (C) 2024. GNU GPL v3.0.\nTerms: https://www.gnu.org/licenses/gpl-3.0.html.\nContact: furqata93@gmail.com.
