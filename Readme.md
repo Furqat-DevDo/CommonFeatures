@@ -98,8 +98,8 @@ Setup
 ### Installation
 
 1.  ```bash 
-    git clone https://github.com/Furqat-DevDo/easy-start.git
-    cd easy-start-kit
+    git clone [https://github.com/Furqat-DevDo/easy-start.git](https://github.com/Furqat-DevDo/EasyStart.git)
+    cd EasyStart
 
 2.  **Backend Setup**:
 
